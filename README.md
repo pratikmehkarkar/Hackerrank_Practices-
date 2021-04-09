@@ -1,4 +1,4 @@
-# Hackerrank Code Practice 
+# Hackerrank 30-Days of Code
 
 [Day-4 Python](https://github.com/pratikmehkarkar/Hackerrank_Practices-/blob/main/day6.py)
 
