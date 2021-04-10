@@ -9,3 +9,5 @@
 [Day-7 Python](https://github.com/pratikmehkarkar/Hackerrank_Practices-/blob/main/day7.py)
 
 [Day-8 Python](https://github.com/pratikmehkarkar/Hackerrank_Practices-/blob/main/day8.py)
+
+[Day-9 Python](https://github.com/pratikmehkarkar/Hackerrank_Practices-/blob/main/day9.py)
