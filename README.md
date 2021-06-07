@@ -1,4 +1,5 @@
 # Hackerrank 30-Days of Code
+## Note: All Problems are executed using Python3
 
 [Day-4 Python](https://github.com/pratikmehkarkar/Hackerrank_Practices-/blob/main/30%20Days%20of%20Code/day6.py)
 
